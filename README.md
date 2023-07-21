@@ -5,3 +5,4 @@
 </p>
 <b>Objetivo: </b><p>Realizar la detección de la condición de una carta de Magic: The Gathering (MTG), por medio de modelos de clasificación</p>
 <b>Modelos: </b><p>Decission Tree, Random Forest, Support Vector Machine</p>
+<b>Dataset: </b><p>Autoría propia</p>
